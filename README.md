@@ -4,8 +4,8 @@
 I'm Prashant Lugun, an experienced Full Stack Developer (MERN) based in Bharuch, Gujarat, India. I'm passionate about coding and web development, and I'm dedicated to creating innovative and high-quality websites and software.
 
 ## Contact Information
-- **Phone**: [tel:+918401704771](+918401704771)
-- **Email**: [mailto:prashantlugun@gmail.com](prashantlugun@gmail.com)
+- **Phone**: [+918401704771](tel:+918401704771)
+- **Email**: [prashantlugun@gmail.com](mailto:prashantlugun@gmail.com)
 - **LinkedIn**: [linkedin.com/in/prashantabhisheklugun](https://www.linkedin.com/in/prashantabhisheklugun)
 
 ## Education
